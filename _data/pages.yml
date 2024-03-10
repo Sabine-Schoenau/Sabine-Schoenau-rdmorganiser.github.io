@@ -26,6 +26,14 @@ rdmo-arge:
   path:
     de: Community
     en: en/Community
+
+docu_allg:
+  label:
+    de: Anleitungen
+    en: Informations
+  path:
+    de: Doku_Allgemein
+    en: en/Docu_general
     
 docu_user:
   label:

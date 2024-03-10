@@ -20,6 +20,10 @@
      de: Anleitungen
      en: Informations
   submenu:
+  - key: docu_allg
+    label:
+      de: Anleitungen
+      en: Information
   - key: docu_user
     label:
       de: für Nutzer:innen
